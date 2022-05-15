@@ -6,7 +6,7 @@ function App() {
     <div className="app">
       <div className="app__videos">
         <Video
-          url="https://v16m-webapp.tiktokcdn-us.com/28d529c6020b56afcf7de67eb69356a7/627747f5/video/tos/useast5/tos-useast5-pve-0068-tx/99d7b384c0224c85b10addb25221fca9/?a=1988&br=3430&bt=1715&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZrIzmwe2NtiGfl7Gb&l=202205072231400100020060050050060030100D851AED&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3NpZ2Q6Zm92PDMzZzczNEApNGU7NzxkaWRmNztlPGk3ZWdtZ2gxcjRvL25gLS1kMS9zcy5gYzUwYjE2NF4zYDRiNDA6Yw%3D%3D&vl=&vr="
+          url="https://v16m-webapp.tiktokcdn-us.com/d57dd80f1664d2e7fbeead68efa04807/628099d7/video/tos/useast2a/tos-useast2a-pve-0037-aiso/f17c9757449f4e4f9765b59f2fa565b3/?a=1988&br=3728&bt=1864&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z9Xdlwe2N9.yfl7Gb&l=20220515000941010002006005005006003006086A0060&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M3N1ZzY6ZnN0PDMzZjgzM0ApOGY0O2Y7N2VnNzk1PGc4aGduNDRscjRfbWdgLS1kL2Nzc2FhMzY1YTYyYTUzMzVjLzM6Yw%3D%3D&vl=&vr="
           channel="ianboggs"
           description="Wow this works"
           song="Wanna be a baller - Lil' Troy"
@@ -15,7 +15,7 @@ function App() {
           shares={111}
         />
         <Video
-          url="https://v16m-webapp.tiktokcdn-us.com/7f64185a69c4c3b25e55f54ac7232e41/62774878/video/tos/useast5/tos-useast5-ve-0068c001-tx/c1a47cfe713b4b74ae59409c5bb0d2d9/?a=1988&br=7138&bt=3569&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Ze0zmwe2NeSRfl7Gb&l=2022050722325601000400500600301305846F3D&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M292bjc6Zm5mPDMzZzczNEApZjY7NGk2ZDw1Nzg5NjU0ZWdzLjYvcjRvXm1gLS1kMS9zczYyYTYzXmMvLjUxMzBiYi46Yw%3D%3D&vl=&vr="
+          url="https://v16m-webapp.tiktokcdn-us.com/7c845f18943e8df82f105a2851617104/62809984/video/tos/useast5/tos-useast5-pve-0068-tx/675c4ae87e734afab90e23ff9caa98ca/?a=1988&br=4362&bt=2181&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z9Xdlwe2N9.yfl7Gb&l=20220515000941010002006005005006003006086A0060&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=ajtkbjo6ZjV2PDMzZzczNEApODlnaGY4NTszN2U3NGk1NmctaWZscjQwYnJgLS1kMS9zczNjNWNgMl4zMWFgYS82M186Yw%3D%3D&vl=&vr="
           channel="dobretwins"
           description="This is insane!"
           song="Dreams - Fleetwood Mac"
@@ -24,7 +24,7 @@ function App() {
           shares={56}
         />
         <Video
-          url="https://v16m-webapp.tiktokcdn-us.com/abfb7655c56abe21dea810948fa133f9/62774976/video/tos/useast2a/tos-useast2a-pve-0068/1e9a0aaaacdc4fd3b6c79bc4ed015c52/?a=1988&br=7634&bt=3817&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8ZzXzmwe2NjkRfl7Gb&l=20220507223812010002006005005006003012128508AD&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=M293eTg6Zjw3PDMzNzczM0ApNDtkOmY6OTxmNzNnaGllOmcuaWducjRnZ2ZgLS1kMTZzczVhYWEyMTEzYS9hYC80NjM6Yw%3D%3D&vl=&vr="
+          url="https://v16m-webapp.tiktokcdn-us.com/467a3cb78b10070118c78e879a739fa4/6280996d/video/tos/useast5/tos-useast5-ve-0068c001-tx/7fba04e471034c978319906a0f1d968d/?a=1988&br=4324&bt=2162&cd=0%7C0%7C1%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&ft=ebtHKH-qMyq8Z9Xdlwe2N9.yfl7Gb&l=20220515000941010002006005005006003006086A0060&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&qs=0&rc=Mzw7OTw6ZmdlPDMzZzczNEApZmU7aTZpNGU2NzU6NjtpZ2dpam5kcjRvYnNgLS1kMS9zczIuYjIzNC00L18uYWEzLzY6Yw%3D%3D&vl=&vr="
           channel="crystalclearpools"
           description="Man this is wild!"
           song="Just a Cloud Away - Pharrell Williams"
